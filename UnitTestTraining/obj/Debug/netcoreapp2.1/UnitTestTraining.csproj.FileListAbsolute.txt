@@ -1,9 +1,0 @@
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\bin\Debug\netcoreapp2.1\UnitTestTraining.deps.json
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\bin\Debug\netcoreapp2.1\UnitTestTraining.dll
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\bin\Debug\netcoreapp2.1\UnitTestTraining.pdb
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.csproj.CoreCompileInputs.cache
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.AssemblyInfoInputs.cache
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.AssemblyInfo.cs
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.dll
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.pdb
-C:\Personal Data\Code\UnitTestTraining\UnitTestTraining\obj\Debug\netcoreapp2.1\UnitTestTraining.csprojAssemblyReference.cache
