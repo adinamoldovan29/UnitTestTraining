@@ -16,6 +16,15 @@ namespace UnitTests.ResultTestPattern
             // Assert
             Assert.IsFalse(result);
         }
+        [TestMethod]
+        public void IsEven_OddNumber_False2()
+        {
+            // Act
+            var result = NumberHelper.IsEven(3);
+
+            // Assert
+            Assert.IsFalse(result);
+        }
 
     }
 }
