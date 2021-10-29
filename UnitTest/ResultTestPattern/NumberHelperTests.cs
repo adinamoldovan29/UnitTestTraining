@@ -17,5 +17,7 @@ namespace UnitTests.ResultTestPattern
             Assert.IsFalse(result);
         }
 
+        //changes
+
     }
 }
