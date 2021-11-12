@@ -23,6 +23,9 @@ namespace UnitTest.TestCases
         public void Clean_NullText_ArgumentNullException()
         {
             Assert.Throws<ArgumentNullException>(() => StringCleaner.Clean(null));
+            // This was added
+            // This was added2
+            // This was added3
         }
     }
 }
