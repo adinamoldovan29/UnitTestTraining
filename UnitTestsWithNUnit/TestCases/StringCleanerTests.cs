@@ -23,6 +23,7 @@ namespace UnitTest.TestCases
         public void Clean_NullText_ArgumentNullException()
         {
             Assert.Throws<ArgumentNullException>(() => StringCleaner.Clean(null));
+            // new comment
         }
     }
 }
