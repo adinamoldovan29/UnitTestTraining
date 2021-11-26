@@ -7,7 +7,7 @@ namespace UnitTest.TestCases
     [TestFixture]
     public class StringCleanerTests
     {
-        //[TestCase("", "")]
+        [TestCase("123", "123")]
         [TestCase("test with space", "testwithspace")]
         [TestCase("testwithoutspace", "testwithoutspace")]
         public void Clean_TextWithSpaces_SpacesRemoved(string text, string expectedResult)
